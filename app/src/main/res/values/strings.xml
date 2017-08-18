@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?,</string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_pasword">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Unete</string>
+    <string name="toolbar_title_createaccount">Crear Cuenta </string>
+    <string name="username_card">Jesus Salazar</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likeNumberCard">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secondword_detail">Me gusta</string>
+    <string name="titleimagedatail">\"Todo copas en la playa\"</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin, justo et placerat cursus, dui nibh mollis lorem, eget fermentum lacus lorem eu nibh. Donec id dapibus urna, sit amet commodo lorem. Aenean ac ante ac augue pulvinar maximus. Aenean volutpat nisl eget commodo eleifend. Suspendisse potenti. Mauris velit leo, interdum quis ante nec, suscipit facilisis felis. Suspendisse potenti. Sed vulputate nulla ac magna sollicitudin pulvinar. Duis blandit risus vel vestibulum sodales. Vestibulum gravida nibh id purus luctus, in lacinia urna aliquam. Duis sed pretium libero. Suspendisse vehicula tincidunt vehicula.  Vestibulum urna quam, faucibus ultrices vehicula ut, consequat vel nulla. Nam et urna lorem. Duis malesuada, erat vitae feugiat consequat, sem mi ultrices felis, a mattis sapien nisl vel nulla. Nulla nulla neque, consectetur et lacinia ac, cursus vitae nibh. Praesent quis dignissim lectus. Morbi eget cursus est. Donec luctus mauris ullamcorper mi lacinia pharetra. Nam tincidunt ac velit ut aliquam. Sed volutpat augue sapien, sed iaculis enim sagittis vel. Nunc in ex ipsum.  Duis interdum libero quis neque porttitor, sed sodales lacus rutrum. Curabitur a dui in dui aliquet vulputate. Phasellus ipsum odio, porta dictum sapien et, imperdiet ullamcorper nunc. Praesent a lectus quis felis placerat dignissim a ut mauris. Pellentesque non commodo sapien. Nam dignissim ornare velit eu commodo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eros risus, laoreet quis turpis in, vestibulum iaculis nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque tristique odio at erat posuere, at dignissim purus euismod. Ut iaculis enim nec auctor maximus. In nec orci nulla.  Suspendisse a sem sed lorem euismod bibendum nec quis nisi. Nulla facilisi. Vivamus odio elit, placerat vitae mauris posuere, lacinia commodo lacus. Maecenas eu consectetur magna. Fusce sed nulla non libero condimentum sagittis. Nulla iaculis ante nec tempus ultrices. Aenean tristique nisi massa, at placerat lectus tincidunt ac. Pellentesque eu orci eget massa vulputate aliquam. Vivamus placerat ultrices neque, sit amet interdum nulla laoreet eu.  Sed neque leo, facilisis at risus et, scelerisque vestibulum urna. Suspendisse placerat, nisi sit amet pellentesque commodo, magna lorem sodales est, id volutpat odio nibh cursus libero. Curabitur sit amet tempor justo, ac dignissim purus. Donec turpis felis, egestas et velit a, vulputate lacinia sem. Ut orci odio, dapibus eget dignissim ut, fringilla id libero. Aenean eros ex, tincidunt et ipsum id, imperdiet ultricies ante. Aenean turpis turpis, dignissim nec commodo et, blandit eu libero. Suspendisse scelerisque quam eu ex facilisis sollicitudin. Mauris vulputate dolor ut mauris blandit auctor. Etiam egestas orci auctor nulla efficitur pellentesque. Nulla quis ex et leo eleifend dapibus. Donec tempus, sapien et lobortis egestas, est lectus maximus diam, nec tempor ante quam a libero. Proin sit amet risus ligula.</string>
+    <string name="transitionname_cardpicture">transitionnamepicture</string>
+    <string name="text_search">Buscar fotos...</string>
+    <string name="text_searchdefault">Buscar...</string>
+
+
+</resources>
